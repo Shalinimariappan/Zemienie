@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import { 
     FaSpa, FaUserMd, FaProcedures, FaMicrophoneAlt, FaVials, FaXRay, 
     FaBrain, FaWalking, FaBone, FaHandHoldingMedical, FaEye, 

@@ -1,5 +1,3 @@
-import { FaEnvelope, FaLinkedin, FaFacebook, FaTwitter } from 'react-icons/fa';
-
 const Careers = () => {
   return (
     <div className="font-sans">

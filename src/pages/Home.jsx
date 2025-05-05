@@ -1,9 +1,5 @@
 import { useState, useEffect } from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Link } from 'react-router-dom';
-import Specialist from '../pages/Specialist'
-import Navbar from '../components/Navbar';
-import Footer from '../components/Footer';
 import slide1 from '../assets/Hero.png';
 import about from '../assets/image 1.png';
 import slide2 from '../assets/Property 1=Group 38.png';

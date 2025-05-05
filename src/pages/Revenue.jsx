@@ -1,11 +1,5 @@
 import { useState } from 'react';
 import { 
-  FaBars, 
-  FaChevronDown, 
-  FaEnvelope, 
-  FaLinkedin, 
-  FaFacebook, 
-  FaTwitter,
   FaTasks,
   FaDollarSign,
   FaBan,
